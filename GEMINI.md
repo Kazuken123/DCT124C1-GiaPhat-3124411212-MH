@@ -22,8 +22,9 @@ Bên trong mỗi thư mục tuần phải chuẩn bị đầy đủ các tệp s
 ---
 
 ## 3. Quy trình Cập nhật & Git
+- **Quy tắc Commit Message:** Bắt buộc tuân thủ chuẩn định dạng: `Tuan??/Bai??/Làm cái gì?` (Ví dụ: `Tuan03/Bai01/Them cac attached files du an du doan gia nha House Prices`).
 - **README.md:** Mỗi khi hoàn thành hoặc cập nhật bài tập mới, luôn tự động ghi nhận vào mục **Nhật ký cập nhật** trong `README.md` theo định dạng: `[YYYY-MM-DD] - <Nội dung cập nhật>`.
-- **Git:** Tự động thực hiện hoặc hướng dẫn quy trình đồng bộ GitHub: `git status` -> `git add .` -> `git commit -m "..."` -> `git push origin main`.
+- **Git:** Tự động thực hiện quy trình đồng bộ GitHub: `git status` -> `git add .` -> `git commit -m "Tuan??/Bai??/Làm cái gì?"` -> `git push origin main`.
 
 ---
 

@@ -9,7 +9,7 @@ Repo cá nhân cho môn Machine Learning (Máy học).
 ---
 
 ## Cấu trúc thư mục
-`	ext
+```text
 ├── Tuan01/
 │   ├── lab01.ipynb                       # File giải đầy đủ 11 bài tập thực hành
 │   ├── lab01_LuyenTap.ipynb              # File tự luyện tập (dạng điền vào chỗ trống)
@@ -21,13 +21,30 @@ Repo cá nhân cho môn Machine Learning (Máy học).
 │   ├── train.csv                         # Tập dữ liệu huấn luyện Titanic
 │   ├── test.csv                          # Tập dữ liệu kiểm thử Titanic
 │   └── gender_submission.csv             # File mẫu submission
+├── Tuan03/
+│   ├── House_Prices_Regression_CRISP_DM.ipynb # Notebook dự án House Prices theo chuẩn CRISP-DM
+│   ├── ipynb-pdf.pdf                     # Bản xuất PDF báo cáo thực nghiệm 15 trang
+│   ├── bieudo.py                         # Script huấn luyện & trực quan hóa 7 biểu đồ phân tích
+│   ├── house_prices_model.py             # Script tiền xử lý, huấn luyện XGBoost, DecisionTree & Keras ANN
+│   ├── train.csv                         # Dữ liệu huấn luyện Ames Housing (1460 dòng, 81 cột)
+│   ├── test.csv                          # Dữ liệu kiểm thử Ames Housing (1459 dòng, 80 cột)
+│   ├── sample_submission.csv             # File mẫu submission Kaggle
+│   ├── Bao_Cao_House_Prices_CRISP_DM.docx # Báo cáo chi tiết định dạng Word
+│   ├── lab02_house_price_DuongGiaPhat_3124411212.zip # Gói nén bài nộp hoàn chỉnh
+│   └── README.md                         # Hướng dẫn chi tiết dự án & cấu trúc các chương
 ├── GEMINI.md                             # Quy tắc dự án cho trợ lý AI
 └── README.md
-`
+```
 
 ---
 
 ## Nhật ký cập nhật
+- **[2026-09-22]**:
+  - Khởi tạo thư mục `Tuan03/` chứa toàn bộ tài nguyên dự án Dự đoán giá nhà (House Prices Regression) theo quy trình chuẩn CRISP-DM.
+  - Bổ sung các mã nguồn mô hình `bieudo.py`, `house_prices_model.py`, notebook phân tích `House_Prices_Regression_CRISP_DM.ipynb` và bản PDF `ipynb-pdf.pdf`.
+  - Bổ sung trọn bộ dữ liệu Kaggle: `train.csv`, `test.csv`, `sample_submission.csv`.
+  - Đóng gói file báo cáo Word `Bao_Cao_House_Prices_CRISP_DM.docx` và file zip nộp bài `lab02_house_price_DuongGiaPhat_3124411212.zip`.
+  - Cập nhật quy tắc commit message bắt buộc theo chuẩn định dạng `Tuan??/Bai??/Làm cái gì?`.
 - **[2026-09-16]**:
   - Tạo thư mục `side task Tuần 2`.
   - Tải lên file notebook `getting-started-with-titanic.ipynb` từ thư mục Downloads.
