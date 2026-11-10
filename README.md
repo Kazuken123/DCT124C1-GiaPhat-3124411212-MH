@@ -56,3 +56,5 @@ Repo cá nhân cho môn Machine Learning (Máy học).
   - Hoàn thành file báo cáo `lab01_GiaPhat_3124411212.docx` và file nộp `lab01_GiaPhat_3124411212.zip`.
   - Bổ sung file bài tập tự luyện `lab01_LuyenTap.ipynb` và giáo án học tập `Giao_An_Hoc_Tap_PyTorch_Lab01.md`.
   - Cấu hình file quy tắc `GEMINI.md` để tự động duy trì tiến độ cho các tuần sau.
+
+- **[2026-11-10]** — Giu nguyen Lab01 va bo sung chi dan theo lich Classroom; xem `Tuan01/README.md`.
