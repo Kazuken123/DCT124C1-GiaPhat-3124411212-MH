@@ -68,3 +68,5 @@ Repo cá nhân cho môn Machine Learning (Máy học).
 - **[2026-11-10]** — Bo sung BT02 va day du Lab05 phan lop cua nhom; xem `Tuan05/README.md`.
 
 - **[2026-11-10]** — Khoi phuc BT03 Regression va proposal nhom; xem `Tuan06/README.md`.
+
+- **[2026-11-10]** — Bo sung BT04 hoc luat kNN va Bayes; xem `Tuan07/README.md`.
