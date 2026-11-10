@@ -72,3 +72,5 @@ Repo cá nhân cho môn Machine Learning (Máy học).
 - **[2026-11-10]** — Bo sung BT04 hoc luat kNN va Bayes; xem `Tuan07/README.md`.
 
 - **[2026-11-10]** — Ghi nhan moc tai lieu xac suat tren Classroom; xem `Tuan08/README.md`.
+
+- **[2026-11-10]** — Luu de BT05 va bao cao tien do giua ky; xem `Tuan09/README.md`.
