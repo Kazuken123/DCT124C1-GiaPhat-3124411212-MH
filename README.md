@@ -1,76 +1,40 @@
 # DCT124C1-GiaPhat-3124411212-MH
-Repo cá nhân cho môn Machine Learning (Máy học).
 
-## Thông tin sinh viên
-- **Họ và tên:** Gia Phát
-- **Mã số sinh viên:** 3124411212
-- **Lớp:** DCT124C1
+Repo cá nhân môn **Máy học (Machine Learning)** — Dương Gia Phát, MSSV **3124411212**, lớp **DCT124C1**, Đại học Sài Gòn.
 
----
+## Bài tập và lab theo thời gian
 
-## Cấu trúc thư mục
-```text
-├── Tuan01/
-│   ├── lab01.ipynb                       # File giải đầy đủ 11 bài tập thực hành
-│   ├── lab01_LuyenTap.ipynb              # File tự luyện tập (dạng điền vào chỗ trống)
-│   ├── lab01_GiaPhat_3124411212.docx    # File báo cáo Word nộp bài
-│   ├── lab01_GiaPhat_3124411212.zip     # File nén nộp bài
-│   └── Giao_An_Hoc_Tap_PyTorch_Lab01.md # Bản tóm tắt kiến thức cốt lõi & giáo án
-├── side task Tuần 2/
-│   ├── getting-started-with-titanic.ipynb # Notebook Titanic Kaggle starter
-│   ├── train.csv                         # Tập dữ liệu huấn luyện Titanic
-│   ├── test.csv                          # Tập dữ liệu kiểm thử Titanic
-│   └── gender_submission.csv             # File mẫu submission
-├── Tuan03/
-│   ├── House_Prices_Regression_CRISP_DM.ipynb # Notebook dự án House Prices theo chuẩn CRISP-DM
-│   ├── ipynb-pdf.pdf                     # Bản xuất PDF báo cáo thực nghiệm 15 trang
-│   ├── bieudo.py                         # Script huấn luyện & trực quan hóa 7 biểu đồ phân tích
-│   ├── house_prices_model.py             # Script tiền xử lý, huấn luyện XGBoost, DecisionTree & Keras ANN
-│   ├── train.csv                         # Dữ liệu huấn luyện Ames Housing (1460 dòng, 81 cột)
-│   ├── test.csv                          # Dữ liệu kiểm thử Ames Housing (1459 dòng, 80 cột)
-│   ├── sample_submission.csv             # File mẫu submission Kaggle
-│   ├── Bao_Cao_House_Prices_CRISP_DM.docx # Báo cáo chi tiết định dạng Word
-│   ├── lab02_house_price_DuongGiaPhat_3124411212.zip # Gói nén bài nộp hoàn chỉnh
-│   └── README.md                         # Hướng dẫn chi tiết dự án & cấu trúc các chương
-├── GEMINI.md                             # Quy tắc dự án cho trợ lý AI
-└── README.md
-```
+[Danh mục đầy đủ từ Google Classroom, hạn nộp và bài còn thiếu](DANH_MUC_CLASSROOM.md).
 
----
+| Tuần | Mốc buổi học/tài liệu năm 2026 | Nội dung |
+|---|---|---|
+| [01](Tuan01/) | 09/09/2026 | Tổng quan máy học, PyTorch |
+| [02](Tuan02/) | 16/09/2026 | Quy trình máy học, Titanic và House Prices |
+| [03](Tuan03/) | 22–23/09/2026 | Hiểu dữ liệu và EDA |
+| [04](Tuan04/) | 30/09/2026 | Tiền xử lý dữ liệu, Feature Selection |
+| [05](Tuan05/) | 06–07/10/2026 | Huấn luyện và đánh giá mô hình |
+| [06](Tuan06/) | 13–14/10/2026 | Hồi quy tuyến tính và phân lớp |
+| [07](Tuan07/) | 20–21/10/2026 | Học luật, k-nearest và Naive Bayes |
+| [08](Tuan08/) | 27–28/10/2026 | Tài liệu mô hình xác suất |
+| [09](Tuan09/) | 04/11/2026 | Mô hình xác suất và báo cáo giữa kỳ |
+
+## Cách sắp xếp
+
+- Tuần 01 bắt đầu với buổi 09/09/2026; những bài đăng vào tối thứ Ba được ghép với buổi học thứ Tư cùng đợt. Ngày đăng và hạn nộp được ghi riêng, không dùng hạn nộp để tự tăng tuần.
+- Lab02 House Prices chuyển từ `Tuan03/` cũ sang `Tuan02/Lab02_HousePrices/`; Titanic chuyển từ `side task Tuần 2/` sang `Tuan02/Titanic/`.
+- Lab03 EDA từ `Tuan04/` ở repo nhóm được xếp về `Tuan03/Lab03_EDA/`; Feature Selection từ `Tuan05/` ở repo nhóm được xếp về `Tuan04/`.
+- Mọi bài nhóm giữ nguyên thông tin tác giả và phân công. Không đưa bài của nhóm khác vào bài làm cá nhân.
+- Các bản bài làm được giữ nguyên nội dung; lần này chỉ lưu trữ, sắp xếp và kiểm tra cấu trúc tệp, không khẳng định đã chạy lại toàn bộ notebook hay xác minh kết quả học thuật.
+- Trước khi chạy Lab05, giải nén `Tuan05/Lab05_PhanLop/data/covid-data.csv.zip` trong chính thư mục `data/`. Các bộ dữ liệu còn lại được lưu cạnh code; xem README từng lab và cấu hình đường dẫn Kaggle/Colab nếu cần.
+- Lịch sử commit cũ được giữ nguyên. Các commit bổ sung đi lần lượt theo tuần với ngày cập nhật thực tế; không sửa ngày commit thành ngày học trong quá khứ.
+
+## Nguồn và kiểm tra toàn vẹn
+
+[DANH_MUC_NGUON.csv](DANH_MUC_NGUON.csv) ghi nguồn của từng file và SHA-256. Nguồn chính: repo cá nhân hiện có, repo nhóm `DCT124C1-MH-Nhom`, kho coursework lưu cục bộ, Downloads và bản BT03 từ Google Docs. Các bản gốc ngoài repo không bị sửa hoặc di chuyển.
 
 ## Nhật ký cập nhật
-- **[2026-09-22]**:
-  - Khởi tạo thư mục `Tuan03/` chứa toàn bộ tài nguyên dự án Dự đoán giá nhà (House Prices Regression) theo quy trình chuẩn CRISP-DM.
-  - Bổ sung các mã nguồn mô hình `bieudo.py`, `house_prices_model.py`, notebook phân tích `House_Prices_Regression_CRISP_DM.ipynb` và bản PDF `ipynb-pdf.pdf`.
-  - Bổ sung trọn bộ dữ liệu Kaggle: `train.csv`, `test.csv`, `sample_submission.csv`.
-  - Đóng gói file báo cáo Word `Bao_Cao_House_Prices_CRISP_DM.docx` và file zip nộp bài `lab02_house_price_DuongGiaPhat_3124411212.zip`.
-  - Cập nhật quy tắc commit message bắt buộc theo chuẩn định dạng `Tuan??/Bai??/Làm cái gì?`.
-- **[2026-09-16]**:
-  - Tạo thư mục `side task Tuần 2`.
-  - Tải lên file notebook `getting-started-with-titanic.ipynb` từ thư mục Downloads.
-  - Bổ sung trọn bộ dữ liệu Titanic (`train.csv`, `test.csv`, `gender_submission.csv`).
-  - Cập nhật tài liệu quy tắc `GEMINI.md` toàn diện.
-- **[2026-09-15]**:
-  - Khởi tạo thư mục `Tuan01/`.
-  - Hoàn thành file notebook `lab01.ipynb` (Bài 1: Làm quen với PyTorch, gồm 11 bài tập).
-  - Hoàn thành file báo cáo `lab01_GiaPhat_3124411212.docx` và file nộp `lab01_GiaPhat_3124411212.zip`.
-  - Bổ sung file bài tập tự luyện `lab01_LuyenTap.ipynb` và giáo án học tập `Giao_An_Hoc_Tap_PyTorch_Lab01.md`.
-  - Cấu hình file quy tắc `GEMINI.md` để tự động duy trì tiến độ cho các tuần sau.
 
-- **[2026-11-10]** — Giu nguyen Lab01 va bo sung chi dan theo lich Classroom; xem `Tuan01/README.md`.
-
-- **[2026-11-10]** — Sap xep Titanic va Lab02 House Prices dung tuan; xem `Tuan02/README.md`.
-
-- **[2026-11-10]** — Bo sung BT01 Lab03 EDA va bai thuc hanh Iris; xem `Tuan03/README.md`.
-
-- **[2026-11-10]** — Khoi phuc Lab04 Feature Selection va bao cao; xem `Tuan04/README.md`.
-
-- **[2026-11-10]** — Bo sung BT02 va day du Lab05 phan lop cua nhom; xem `Tuan05/README.md`.
-
-- **[2026-11-10]** — Khoi phuc BT03 Regression va proposal nhom; xem `Tuan06/README.md`.
-
-- **[2026-11-10]** — Bo sung BT04 hoc luat kNN va Bayes; xem `Tuan07/README.md`.
-
-- **[2026-11-10]** — Ghi nhan moc tai lieu xac suat tren Classroom; xem `Tuan08/README.md`.
-
-- **[2026-11-10]** — Luu de BT05 va bao cao tien do giua ky; xem `Tuan09/README.md`.
+- **[2026-11-10]** — Đối chiếu Classroom; sắp lại tuần 01–09; bổ sung BT01–04, Lab03–05, đề BT05, proposal và báo cáo tiến độ giữa kỳ. Liệt kê riêng các bài chưa tìm thấy bài làm. Phục hồi BT03 từ Google Docs, không tạo bài giải mới.
+- **[2026-09-22]** — Bổ sung House Prices CRISP-DM; các tệp hiện ở `Tuan02/Lab02_HousePrices/`.
+- **[2026-09-16]** — Bổ sung notebook và dữ liệu Titanic; hiện ở `Tuan02/Titanic/`.
+- **[2026-09-15]** — Khởi tạo Lab01 PyTorch, báo cáo, bản luyện tập và giáo án.
