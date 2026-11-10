@@ -1,9 +1,9 @@
-# Tuần 09 — Mô hình xác suất và báo cáo giữa kỳ
+# Tuần 09 — Buổi học ngày 11/11/2026
 
-Mốc buổi học/tài liệu: **04/11/2026**.
+Bảng chuyên cần ghi **B9 — 11/11/2026**. Khi kiểm tra ngày 10/11/2026, đây là buổi kế tiếp.
 
-BT05_Bayesian_Normal_Density_MLE: hạn 10/11/2026 (“Due Today” khi đối chiếu ngày 10/11). Mới tìm được đề PDF, chưa tìm thấy bài giải. Báo cáo tiến độ giữa kỳ nhóm: hạn 08/11/2026; có báo cáo, slide và nhật ký thí nghiệm.
+Báo cáo giữa kỳ diễn ra ngày 04/11 và BT05 được giao ngày 04/11 đã được chuyển về [Tuần 08](../Tuan08/). Không giữ các tệp này trong tuần 9 chỉ vì hạn nộp nằm trong tháng 11.
 
-`BaoCaoGiuaKy/` là bài nhóm. Mã nguồn đồ án và các thí nghiệm được duy trì tại [repo nhóm](https://github.com/Kazuken123/DCT124C1-MH-Nhom); ở repo cá nhân này chỉ tập hợp ba tệp bài nộp báo cáo. `BT05_Bayesian/DeBai/` chứa đề, không phải bài đã làm.
+Classroom đăng “Midterm - Bài tập 1”, “Midterm - Bài tập 2”, “BT08_BatchGD_Regression” và “[Thực hành] Neural Network” ngày 10/11. Chưa có bài làm tương ứng được xác nhận; không suy ra tuần học hoặc buổi đã giảng chỉ từ ngày đăng. Xem [danh mục Classroom](../DANH_MUC_CLASSROOM.md).
 
-Nguồn lịch: [Classwork lớp Máy học](https://classroom.google.com/u/1/w/ODI2MjU1MDczODgx/t/all), đối chiếu ngày 10/11/2026. Tuần được đối chiếu theo buổi học và ngày đăng; hạn nộp được ghi riêng.
+Nguồn: [bảng chuyên cần](https://docs.google.com/spreadsheets/d/1WIBl3z2dM340H9d2ugyh7UrhDPp2J2RFRp-UY8PayJo/edit?gid=0#gid=0), hàng ngày học và nhãn **B9**; xem [lịch tuần đã xác minh](../LICH_TUAN_HOC.md).
