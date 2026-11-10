@@ -62,3 +62,5 @@ Repo cá nhân cho môn Machine Learning (Máy học).
 - **[2026-11-10]** — Sap xep Titanic va Lab02 House Prices dung tuan; xem `Tuan02/README.md`.
 
 - **[2026-11-10]** — Bo sung BT01 Lab03 EDA va bai thuc hanh Iris; xem `Tuan03/README.md`.
+
+- **[2026-11-10]** — Khoi phuc Lab04 Feature Selection va bao cao; xem `Tuan04/README.md`.
