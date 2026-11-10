@@ -1,9 +1,7 @@
-# Tuần 09 — Buổi học ngày 11/11/2026
+# Tuần 09 — Chờ bổ sung bài làm
 
-Bảng chuyên cần ghi **B9 — 11/11/2026**. Khi kiểm tra ngày 10/11/2026, đây là buổi kế tiếp.
+Tuần 9 là buổi B9 trong bảng chuyên cần. Chưa có bài làm mới được xác nhận để đưa vào thư mục này. Báo cáo giữa kỳ và BT05 nằm ở [tuần 8](../Tuan08/).
 
-Báo cáo giữa kỳ diễn ra ngày 04/11 và BT05 được giao ngày 04/11 đã được chuyển về [Tuần 08](../Tuan08/). Không giữ các tệp này trong tuần 9 chỉ vì hạn nộp nằm trong tháng 11.
+Các mục Midterm, ANN, học không giám sát và Batch Gradient Descent tiếp tục được liệt kê riêng trong [danh mục Classroom](../DANH_MUC_CLASSROOM.md) cho đến khi xác định được tuần và bài làm tương ứng.
 
-Classroom đăng “Midterm - Bài tập 1”, “Midterm - Bài tập 2”, “BT08_BatchGD_Regression” và “[Thực hành] Neural Network” ngày 10/11. Chưa có bài làm tương ứng được xác nhận; không suy ra tuần học hoặc buổi đã giảng chỉ từ ngày đăng. Xem [danh mục Classroom](../DANH_MUC_CLASSROOM.md).
-
-Nguồn: [bảng chuyên cần](https://docs.google.com/spreadsheets/d/1WIBl3z2dM340H9d2ugyh7UrhDPp2J2RFRp-UY8PayJo/edit?gid=0#gid=0), hàng ngày học và nhãn **B9**; xem [lịch tuần đã xác minh](../LICH_TUAN_HOC.md).
+Số tuần đối chiếu với nhãn buổi học trong bảng chuyên cần; xem [căn cứ sắp xếp](../LICH_TUAN_HOC.md). Không đánh số tuần từ hạn nộp hoặc số BT/Lab.
